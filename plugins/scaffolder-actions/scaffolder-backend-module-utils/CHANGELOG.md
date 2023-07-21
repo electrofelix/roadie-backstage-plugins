@@ -1,5 +1,11 @@
 # @roadiehq/scaffolder-backend-module-utils
 
+## 1.9.1
+
+### Patch Changes
+
+- 74b37636: support object result in jsonata actions
+
 ## 1.9.0
 
 ### Minor Changes
